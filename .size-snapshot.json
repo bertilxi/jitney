@@ -1,0 +1,36 @@
+{
+  "/home/fer/Dev/bus/dist/jitney.cjs.development.js": {
+    "bundled": 881,
+    "minified": 481,
+    "gzipped": 269
+  },
+  "/home/fer/Dev/bus/dist/jitney.cjs.production.js": {
+    "bundled": 881,
+    "minified": 481,
+    "gzipped": 269
+  },
+  "/home/fer/Dev/bus/dist/jitney.umd.development.js": {
+    "bundled": 1224,
+    "minified": 505,
+    "gzipped": 328
+  },
+  "/home/fer/Dev/bus/dist/jitney.umd.production.js": {
+    "bundled": 1224,
+    "minified": 505,
+    "gzipped": 328
+  },
+  "/home/fer/Dev/bus/dist/jitney.es.production.js": {
+    "bundled": 808,
+    "minified": 415,
+    "gzipped": 249,
+    "treeshaked": {
+      "rollup": {
+        "code": 253,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 1204
+      }
+    }
+  }
+}
