@@ -1,12 +1,25 @@
 {
   "name": "jitney",
   "version": "0.1.0",
+  "description": "Simple event bus",
+  "author": "Fernando Berti <bertilxi@gmail.com>",
+  "license": "MIT",
   "main": "dist/index.js",
   "umd:main": "dist/jitney.umd.production.js",
   "module": "dist/jitney.es.production.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
+  ],
+  "homepage": "https://github.com/bertilxi/jitney",
+  "bugs": "https://github.com/bertilxi/jitney/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertilxi/jitney.git"
+  },
+  "keywords": [
+    "simple",
+    "event bus"
   ],
   "scripts": {
     "start": "tsdx watch",
